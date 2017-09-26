@@ -1,0 +1,14 @@
+Author: Gautam Reddy Nallamala
+Affiliation: Dept. of Physics, UC San Diego, USA
+Email: gnallama@physics.ucsd.edu
+
+The IPython notebook files are used to generate the figures for the paper.
+Temporal Dynamics of an ORN - Figure 1
+Masking - Figure 4
+Coding Model - Figure 5
+Quality Coding - Figure 6
+Concentration Coding - Figure 7
+
+Additional C++ code is used to generate the data used to plot the four panels in Figure 6 and the D panel in Figure 7. 
+
+To run the CPP files, you need to have the GNU Scientific Library installed. 
